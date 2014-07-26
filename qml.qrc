@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">src/qml/main.qml</file>
+        <file alias="Gadget.qml">src/qml/Gadget.qml</file>
+        <file alias="Shadow.qml">src/qml/Shadow.qml</file>
+        <file alias="WorkspaceView.qml">src/qml/WorkspaceView.qml</file>
+    </qresource>
+</RCC>
